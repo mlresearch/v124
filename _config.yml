@@ -1,0 +1,82 @@
+---
+booktitle: "{Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)}"
+shortname: "{UAI}"
+volume: 124
+year: '2020'
+start: 2020-08-03
+end: 2020-08-06
+published: 2020-08-27
+url: http://proceedings.mlr.press
+conference_number: '36'
+location: Virtual
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: UAI2020
+month: 0
+cycles: false
+bibtex_editor: Peters, Jonas and Sontag, David
+editor:
+- given: Jonas
+  family: Peters
+- given: David
+  family: Sontag
+title: Proceedings of Machine Learning Research
+description: |
+  {Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence (UAI)}
+    Held in Virtual on 03-06 August 2020
+
+  Published as Volume 124 by the Proceedings of Machine Learning Research on 27 August 2020.
+
+  Volume Edited by:
+    Jonas Peters
+    David Sontag
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 03--06 Aug
+author:
+  name: PMLR
+baseurl: "/v124"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v124
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conference on Uncertainty in Artificial Intelligence
+  url: 
+  location: Virtual
+  dates:
+  - 2020-08-03
+  - 2020-08-04
+  - 2020-08-05
+  - 2020-08-06
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v124/uai2020.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v124/uai2020.bib
