@@ -1,11 +1,11 @@
 ---
 title: Active Model Estimation in Markov Decision Processes
-abstract: "{We study the problem of efficient exploration in order to learn an accurate
+abstract: 'We study the problem of efficient exploration in order to learn an accurate
   model of an environment, modeled as a Markov decision process (MDP). Efficient exploration
   in this problem requires the agent to identify the regions in which estimating the
   model is more difficult and then exploit this knowledge to collect more samples
   there. In this paper, we formalize this problem, introduce the first algorithm to
-  learn an $\\epsilon$-accurate estimate of the dynamics, and provide its sample complexity
+  learn an $\epsilon$-accurate estimate of the dynamics, and provide its sample complexity
   analysis. While this algorithm enjoys strong guarantees in the large-sample regime,
   it tends to have a poor performance in early stages of exploration. To address this
   issue, we propose an algorithm that is based on maximum weighted entropy, a heuristic
@@ -14,15 +14,14 @@ abstract: "{We study the problem of efficient exploration in order to learn an a
   in their transition functions. Using a number of simple domains with heterogeneous
   noise in their transitions, we show that our heuristic-based algorithm outperforms
   both our original algorithm and the maximum entropy algorithm in the small sample
-  regime, while achieving similar asymptotic performance as that of the original algorithm.
-  }"
+  regime, while achieving similar asymptotic performance as that of the original algorithm. '
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: tarbouriech20a
 month: 0
-tex_title: "{Active Model Estimation in Markov Decision Processes}"
+tex_title: Active Model Estimation in Markov Decision Processes
 firstpage: 1019
 lastpage: 1028
 page: 1019-1028
@@ -43,8 +42,8 @@ author:
   family: Lazaric
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

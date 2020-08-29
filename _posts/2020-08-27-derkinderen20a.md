@@ -1,23 +1,23 @@
 ---
 title: Ordering Variables for Weighted Model Integration
-abstract: "{State-of-the-art probabilistic inference algorithms, such as variable
-  elimination and search-based  approaches, rely heavily on  the order in which variables
-  are marginalized. Finding the optimal ordering is an NP-complete problem. This computational
+abstract: State-of-the-art probabilistic inference algorithms, such as variable elimination
+  and search-based  approaches, rely heavily on  the order in which variables are
+  marginalized. Finding the optimal ordering is an NP-complete problem. This computational
   hardness has led to heuristics to find adequate variable orderings. However, these
   heuristics have mostly been targeting discrete random variables. We show how variable
   ordering heuristics from the discrete domain can be ported to the discrete-continuous
-  domain. We equip the state-of-the-art F-XSDD(BR) solver for  discrete-continuous
-  \ problems  with  such heuristics. Additionally, we propose a novel heuristic called
-  bottom-up min-fill (BU-MiF), yielding a solver capable of determining good variable
-  orderings without having to rely on the user to provide such an ordering. We empirically
-  demonstrate its performance on a set of benchmark problems.}"
+  domain. We equip the state-of-the-art F-XSDD(BR) solver for  discrete-continuous  problems  with  such
+  heuristics. Additionally, we propose a novel heuristic called bottom-up min-fill
+  (BU-MiF), yielding a solver capable of determining good variable orderings without
+  having to rely on the user to provide such an ordering. We empirically demonstrate
+  its performance on a set of benchmark problems.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: derkinderen20a
 month: 0
-tex_title: "{Ordering Variables for Weighted Model Integration}"
+tex_title: Ordering Variables for Weighted Model Integration
 firstpage: 879
 lastpage: 888
 page: 879-888
@@ -38,8 +38,8 @@ author:
   family: Raedt
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

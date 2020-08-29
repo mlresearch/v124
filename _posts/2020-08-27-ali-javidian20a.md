@@ -1,26 +1,26 @@
 ---
 title: 'Learning LWF Chain Graphs: A Markov Blanket Discovery Approach'
-abstract: "{This paper provides a graphical characterization of Markov blankets in
-  chaingraphs (CGs) under the Lauritzen-Wermuth-Frydenberg (LWF) interpretation.  The
-  characterization is different from the well-known one for Bayesian networks and
-  generalizes it.  We provide a novel scalable and sound algorithmfor Markov blanket
-  discovery in LWF CGs and prove that the Grow-Shrink algorithm, the IAMB algorithm,
-  and its variants are still correct for Markov blanket discovery in LWF CGs under
-  the same assumptions as for Bayesian networks. We provide a sound and scalable constraint-based
-  framework for learning the structure of LWF CGs from faithful causally sufficient
-  data and prove its correctness when the Markov blanket discovery algorithms in this
-  paper are used. Our proposed algorithms compare positively/competitively against
-  the state-of-the-art  LCD (Learn Chain graphs via Decomposition) algorithm, depending
-  on the algorithm that is used for Markov blanket discovery. Our proposed algorithms
-  make a broad range of inference/learning problems computationallytractable and more
-  reliable because they exploit locality.}"
+abstract: This paper provides a graphical characterization of Markov blankets in chaingraphs
+  (CGs) under the Lauritzen-Wermuth-Frydenberg (LWF) interpretation.  The characterization
+  is different from the well-known one for Bayesian networks and generalizes it.  We
+  provide a novel scalable and sound algorithmfor Markov blanket discovery in LWF
+  CGs and prove that the Grow-Shrink algorithm, the IAMB algorithm, and its variants
+  are still correct for Markov blanket discovery in LWF CGs under the same assumptions
+  as for Bayesian networks. We provide a sound and scalable constraint-based framework
+  for learning the structure of LWF CGs from faithful causally sufficient data and
+  prove its correctness when the Markov blanket discovery algorithms in this paper
+  are used. Our proposed algorithms compare positively/competitively against the state-of-the-art  LCD
+  (Learn Chain graphs via Decomposition) algorithm, depending on the algorithm that
+  is used for Markov blanket discovery. Our proposed algorithms make a broad range
+  of inference/learning problems computationallytractable and more reliable because
+  they exploit locality.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: ali-javidian20a
 month: 0
-tex_title: "{Learning LWF Chain Graphs: A Markov Blanket Discovery Approach}"
+tex_title: 'Learning LWF Chain Graphs: A Markov Blanket Discovery Approach'
 firstpage: 1069
 lastpage: 1078
 page: 1069-1078
@@ -36,8 +36,8 @@ author:
   family: Jamshidi
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

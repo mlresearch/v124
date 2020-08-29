@@ -1,21 +1,21 @@
 ---
 title: Bayesian Online Prediction of Change Points
-abstract: "{Online detection of instantaneous changes in the generative process of
-  a data sequence generally focuses on retrospective inference of such change points
+abstract: Online detection of instantaneous changes in the generative process of a
+  data sequence generally focuses on retrospective inference of such change points
   without considering their future occurrences. We extend the Bayesian Online Change
   Point Detection algorithm to also infer the number of time steps until the next
   change point (i.e., the residual time). This enables to handle observation models
   which depend on the total segment duration, which is useful to model data sequences
   with temporal scaling. The resulting inference algorithm for segment detection can
   be deployed in an online fashion, and we illustrate applications to synthetic and
-  to two medical real-world data sets.}"
+  to two medical real-world data sets.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: agudelo-espana20a
 month: 0
-tex_title: "{Bayesian Online Prediction of Change Points}"
+tex_title: Bayesian Online Prediction of Change Points
 firstpage: 320
 lastpage: 329
 page: 320-329
@@ -36,8 +36,8 @@ author:
   family: Peters
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

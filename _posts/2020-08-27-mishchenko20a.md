@@ -1,6 +1,6 @@
 ---
 title: 99% of Worker-Master Communication in Distributed Optimization Is Not Needed
-abstract: "{In this paper we discuss sparsification of worker-to-server communication
+abstract: 'In this paper we discuss sparsification of worker-to-server communication
   in large distributed systems. We improve upon algorithms that fit the following
   template: a local gradient estimate is computed independently by each worker, then
   communicated to a master, which subsequently performs averaging. The average is
@@ -17,15 +17,14 @@ abstract: "{In this paper we discuss sparsification of worker-to-server communic
   this means that when $n=100$ parallel workers are used, the communication of 99%
   blocks is redundant, and hence a waste of time. Our theoretical claims are supported
   through extensive numerical experiments which demonstrate an almost perfect match
-  with our theory on a number of synthetic and real datasets.}"
+  with our theory on a number of synthetic and real datasets.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: mishchenko20a
 month: 0
-tex_title: "{99% of Worker-Master Communication in Distributed Optimization Is Not
-  Needed}"
+tex_title: 99% of Worker-Master Communication in Distributed Optimization Is Not Needed
 firstpage: 979
 lastpage: 988
 page: 979-988
@@ -41,8 +40,8 @@ author:
   family: Richtarik
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

@@ -1,6 +1,6 @@
 ---
 title: Active Learning of Conditional Mean Embeddings via Bayesian Optimisation
-abstract: "{We consider the problem of sequentially optimising the conditional expectation
+abstract: We consider the problem of sequentially optimising the conditional expectation
   of an objective function, with both the conditional distribution and the objective
   function assumed to be fixed but unknown. Assuming that the objective function belongs
   to a reproducing kernel Hilbert space (RKHS), we provide a novel upper confidence
@@ -8,14 +8,14 @@ abstract: "{We consider the problem of sequentially optimising the conditional e
   (CME), and derive its regret bound. Along the way, we derive novel approximation
   guarantees for the CME estimates. Finally, experiments are carried out in a synthetic
   example and in a likelihood-free inference application that highlight the useful
-  insights of the proposed method.}"
+  insights of the proposed method.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: ray-chowdhury20a
 month: 0
-tex_title: "{Active Learning of Conditional Mean Embeddings via Bayesian Optimisation}"
+tex_title: Active Learning of Conditional Mean Embeddings via Bayesian Optimisation
 firstpage: 1119
 lastpage: 1128
 page: 1119-1128
@@ -31,8 +31,8 @@ author:
   family: Ramos
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

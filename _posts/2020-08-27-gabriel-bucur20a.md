@@ -1,7 +1,7 @@
 ---
 title: 'MASSIVE: Tractable and Robust Bayesian Learning of Many-Dimensional Instrumental
   Variable Models'
-abstract: "{The recent availability of huge, many-dimensional data sets, like those
+abstract: The recent availability of huge, many-dimensional data sets, like those
   arising from genome-wide association studies (GWAS), provides many opportunities
   for strengthening causal inference. One popular approach is to utilize these many-dimensional
   measurements as instrumental variables (instruments) for improving the causal effect
@@ -18,15 +18,15 @@ abstract: "{The recent availability of huge, many-dimensional data sets, like th
   instrumental variable models, while at the same time employing weaker assumptions
   regarding the data generating process. We showcase the efficiency, robustness and
   predictive performance of our algorithm through experimental results on both simulated
-  and real-world data.}"
+  and real-world data.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: gabriel-bucur20a
 month: 0
-tex_title: "{MASSIVE: Tractable and Robust Bayesian Learning of Many-Dimensional Instrumental
-  Variable Models}"
+tex_title: 'MASSIVE: Tractable and Robust Bayesian Learning of Many-Dimensional Instrumental
+  Variable Models'
 firstpage: 1049
 lastpage: 1058
 page: 1049-1058
@@ -42,8 +42,8 @@ author:
   family: Heskes
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

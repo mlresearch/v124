@@ -1,6 +1,6 @@
 ---
 title: Dueling Posterior Sampling for Preference-Based Reinforcement Learning
-abstract: "{In preference-based reinforcement learning (RL), an agent interacts with
+abstract: In preference-based reinforcement learning (RL), an agent interacts with
   the environment while receiving preferences instead of absolute feedback. While
   there is increasing research activity in preference-based RL, the design of formal
   frameworks that admit tractable theoretical analysis remains an open challenge.
@@ -15,14 +15,14 @@ abstract: "{In preference-based reinforcement learning (RL), an agent interacts 
   the first regret guarantee for preference-based RL to our knowledge. We also discuss
   possible avenues for extending the proof methodology to  other credit assignment
   models. Finally, we evaluate the approach empirically, showing competitive performance
-  against existing baselines.}"
+  against existing baselines.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: novoseller20a
 month: 0
-tex_title: "{Dueling Posterior Sampling for Preference-Based Reinforcement Learning}"
+tex_title: Dueling Posterior Sampling for Preference-Based Reinforcement Learning
 firstpage: 1029
 lastpage: 1038
 page: 1029-1038
@@ -43,8 +43,8 @@ author:
   family: Burdick
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

@@ -1,6 +1,6 @@
 ---
 title: Deriving Bounds And Inequality Constraints Using Logical Relations Among Counterfactuals
-abstract: "{  Causal parameters may not be point identified in the presence of unobserved
+abstract: "  Causal parameters may not be point identified in the presence of unobserved
   \ confounding. However, information about non-identified parameters, in the form
   \ of bounds, may still be recovered from the observed data in some cases. We  develop
   a new general method for obtaining bounds on causal parameters using  rules of probability
@@ -10,15 +10,15 @@ abstract: "{  Causal parameters may not be point identified in the presence of u
   relations between  identified and non-identified counterfactual events often yield
   information  about non-identified events. We show that this approach is powerful
   enough to  recover known sharp bounds and tight inequality constraints, and to derive
-  \ novel bounds and constraints.}"
+  \ novel bounds and constraints."
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: finkelstein20a
 month: 0
-tex_title: "{Deriving Bounds And Inequality Constraints Using Logical Relations Among
-  Counterfactuals}"
+tex_title: Deriving Bounds And Inequality Constraints Using Logical Relations Among
+  Counterfactuals
 firstpage: 1348
 lastpage: 1357
 page: 1348-1357
@@ -32,8 +32,8 @@ author:
   family: Shpitser
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

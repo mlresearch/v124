@@ -1,6 +1,6 @@
 ---
 title: Causal screening in dynamical systems
-abstract: "{Many classical algorithms output graphical representations of causal structures
+abstract: Many classical algorithms output graphical representations of causal structures
   by testing conditional independence among a set of random variables. In dynamical
   systems, local independence can be used analogously as a testable implication of
   the underlying data-generating process. We suggest some inexpensive methods for
@@ -8,14 +8,14 @@ abstract: "{Many classical algorithms output graphical representations of causal
   assumption of ancestral faithfulness. The popular model class of linear Hawkes processes
   is used to provide an example of a dynamical causal model. We argue that for sparse
   causal graphs the output will often be close to complete. We give examples of this
-  framework and apply it to a challenging biological system.}"
+  framework and apply it to a challenging biological system.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: wengel-mogensen20a
 month: 0
-tex_title: "{Causal screening in dynamical systems}"
+tex_title: Causal screening in dynamical systems
 firstpage: 310
 lastpage: 319
 page: 310-319
@@ -27,8 +27,8 @@ author:
   family: Wengel Mogensen
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

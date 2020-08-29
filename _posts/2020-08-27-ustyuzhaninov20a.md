@@ -1,6 +1,6 @@
 ---
 title: Compositional uncertainty in deep Gaussian processes
-abstract: "{Gaussian processes (GPs) are nonparametric priors over functions. Fitting
+abstract: Gaussian processes (GPs) are nonparametric priors over functions. Fitting
   a GP implies computing a posterior distribution of functions consistent with the
   observed data. Similarly, deep Gaussian processes (DGPs) should allow us to compute
   a posterior distribution of compositions of multiple functions giving rise to the
@@ -11,14 +11,14 @@ abstract: "{Gaussian processes (GPs) are nonparametric priors over functions. Fi
   advantage of the potential of the model to discover the compositional structure
   in the data. To address this issue, we examine alternative variational inference
   schemes allowing for dependencies across different layers and discuss their advantages
-  and limitations.}"
+  and limitations.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: ustyuzhaninov20a
 month: 0
-tex_title: "{Compositional uncertainty in deep Gaussian processes}"
+tex_title: Compositional uncertainty in deep Gaussian processes
 firstpage: 480
 lastpage: 489
 page: 480-489
@@ -41,8 +41,8 @@ author:
   family: Henrik Ek
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

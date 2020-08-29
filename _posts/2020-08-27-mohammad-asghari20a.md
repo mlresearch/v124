@@ -1,7 +1,7 @@
 ---
 title: Regret Bounds for Decentralized Learning in Cooperative Multi-Agent Dynamical
   Systems
-abstract: "{Regret analysis is challenging in Multi-Agent Reinforcement Learning (MARL)
+abstract: Regret analysis is challenging in Multi-Agent Reinforcement Learning (MARL)
   primarily due to the dynamical environments and the decentralized information among
   agents. We attempt to solve this challenge in the context of decentralized learning
   in multi-agent linear-quadratic (LQ) dynamical systems. We begin with a simple setup
@@ -14,21 +14,21 @@ abstract: "{Regret analysis is challenging in Multi-Agent Reinforcement Learning
   system to the other agent, we propose a MARL algorithm based on the construction
   of an auxiliary single-agent LQ problem. The auxiliary single-agent problem in the
   proposed MARL algorithm serves as an implicit coordination mechanism among the two
-  learning agents. This allows the agents to achieve a regret within $O(\\sqrt{T})$
+  learning agents. This allows the agents to achieve a regret within $O(\sqrt{T})$
   of the regret of the auxiliary single-agent problem. Consequently, using existing
-  results for single-agent LQ regret, our algorithm provides a $\\tilde{O}(\\sqrt{T})$
-  regret bound. (Here $\\tilde{O}(\\cdot)$ hides constants and logarithmic factors).
+  results for single-agent LQ regret, our algorithm provides a $\tilde{O}(\sqrt{T})$
+  regret bound. (Here $\tilde{O}(\cdot)$ hides constants and logarithmic factors).
   Our numerical experiments indicate that this bound is matched in practice. From
   the two-agent problem, we extend our results to multi-agent LQ systems with certain
-  communication patterns which appear in vehicle platoon control.}"
+  communication patterns which appear in vehicle platoon control.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: mohammad-asghari20a
 month: 0
-tex_title: "{Regret Bounds for Decentralized Learning in Cooperative Multi-Agent Dynamical
-  Systems}"
+tex_title: Regret Bounds for Decentralized Learning in Cooperative Multi-Agent Dynamical
+  Systems
 firstpage: 121
 lastpage: 130
 page: 121-130
@@ -44,8 +44,8 @@ author:
   family: Nayyar
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

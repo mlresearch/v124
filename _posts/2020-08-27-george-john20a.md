@@ -1,6 +1,6 @@
 ---
 title: Verifying Individual Fairness in Machine Learning Models
-abstract: "{We consider the problem of whether a given decision model, working with
+abstract: We consider the problem of whether a given decision model, working with
   structured data, has individual fairness. Following the work of Dwork, a model is
   individually biased (or unfair) if there is a pair of valid inputs which are close
   to each other (according to an appropriate metric) but are treated differently by
@@ -10,14 +10,14 @@ abstract: "{We consider the problem of whether a given decision model, working w
   of the problem. We construct verifiers which are sound but not complete for linear
   classifiers, and kernelized polynomial/radial basis function classifiers. We also
   report the experimental results of evaluating our proposed algorithms on publicly
-  available datasets.}"
+  available datasets.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: george-john20a
 month: 0
-tex_title: "{Verifying Individual Fairness in Machine Learning Models}"
+tex_title: Verifying Individual Fairness in Machine Learning Models
 firstpage: 749
 lastpage: 758
 page: 749-758
@@ -33,8 +33,8 @@ author:
   family: Saha
 date: 2020-08-27
 address: 
-container-title: "{Proceedings of the 36th Conference on Uncertainty in Artificial
-  Intelligence (UAI)}"
+container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
 volume: '124'
 genre: inproceedings
 issued:

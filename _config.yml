@@ -1,7 +1,7 @@
 ---
-booktitle: "{Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
-  (UAI)}"
-shortname: "{UAI}"
+booktitle: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
+  (UAI)
+shortname: UAI
 volume: 124
 year: '2020'
 start: 2020-08-03
@@ -25,7 +25,7 @@ editor:
   family: Sontag
 title: Proceedings of Machine Learning Research
 description: |
-  {Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence (UAI)}
+  Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence (UAI)
     Held in Virtual on 03-06 August 2020
 
   Published as Volume 124 by the Proceedings of Machine Learning Research on 27 August 2020.
