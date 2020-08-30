@@ -28,7 +28,7 @@ bibtex_author: Saleh Salem, T\'arik and Langseth, Helge and of Science, Ramampia
   (Norwegian University and Technology, Heri
 author:
 - given: Tárik
-  family: Saleh Salem
+  family: S. Salem
 - given: Helge
   family: Langseth
 - given: Heri
