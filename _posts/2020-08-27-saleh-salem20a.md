@@ -24,8 +24,7 @@ lastpage: 1187
 page: 1179-1187
 order: 1179
 cycles: false
-bibtex_author: Saleh Salem, T\'arik and Langseth, Helge and of Science, Ramampiaro
-  (Norwegian University and Technology, Heri
+bibtex_author: S. Salem, T\'arik and Langseth, Helge and Ramampiaro, Heri
 author:
 - given: Tárik
   family: S. Salem
