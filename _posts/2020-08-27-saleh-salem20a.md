@@ -24,17 +24,14 @@ lastpage: 1187
 page: 1179-1187
 order: 1179
 cycles: false
-bibtex_author: Saleh Salem, T\'arik and Langseth, Helge and of Science, Ramampiaro
-  (Norwegian University and Technology, Heri
+bibtex_author: S. Salem, T\'arik and Langseth, Helge and Ramampiaro, Heri
 author:
 - given: Tárik
-  family: Saleh Salem
+  family: S. Salem
 - given: Helge
   family: Langseth
-- given: Ramampiaro (Norwegian University
-  family: Science
 - given: Heri
-  family: Technology
+  family: Ramampiaro
 date: 2020-08-27
 address: 
 container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
