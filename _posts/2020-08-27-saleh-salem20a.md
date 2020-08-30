@@ -31,10 +31,8 @@ author:
   family: Saleh Salem
 - given: Helge
   family: Langseth
-- given: Ramampiaro (Norwegian University
-  family: Science
 - given: Heri
-  family: Technology
+  family: Ramampiaro
 date: 2020-08-27
 address: 
 container-title: Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence
